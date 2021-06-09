@@ -1,4 +1,4 @@
 ### Code_library
 
-## This library consists to important and ready to use cpp code snippets.
+## This library consists of important and ready to use cpp code snippets.
 
